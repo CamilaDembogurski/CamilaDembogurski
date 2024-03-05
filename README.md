@@ -1,10 +1,10 @@
 # Hello everbody, my name is Camila!
 
-- 🔭 I'm currently focused on my programming studies
-- 🌱 And I'm learning, in a more focused way, JavaScript
-- 💬 Ask me about programming
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love dogs and animals
+- I'm currently focused on my programming studies
+- And I'm learning, in a more focused way, JavaScript
+- Ask me about programming
+- Pronouns: she/her
+- Fun fact: I love dogs and animals
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
