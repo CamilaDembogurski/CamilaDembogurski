@@ -1,4 +1,4 @@
-# Hello everbody, my name is Camila!
+# Hey people, my name is Camila!
 
 - I'm currently focused on my programming studies
 - And I'm learning, in a more focused way, JavaScript
